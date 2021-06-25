@@ -1,5 +1,5 @@
 
-**Model and Parameter Uncertainty in Bayesian Neural Networks**
+## Model and Parameter Uncertainty in Bayesian Neural Networks
 
 In this repository, we provide the code base for producing the results reported in the paper: *Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty*.
 
