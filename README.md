@@ -20,7 +20,7 @@ Hubin, Aliaksandr; Storvik, Geir Olve. 2019, Big Insight Lunch. Oslo, Norway (In
 
 2.  Combining Model and Parameter Uncertainty in Bayesian Neural Networks.
 Hubin, Aliaksandr; Storvik, Geir Olve. 2019, Data Science Major Minsk. Minsk, Belarus.
-[Video (ENG):](https://www.youtube.com/watch?v=NQIuOqWonko)
+[Video (ENG)](https://www.youtube.com/watch?v=NQIuOqWonko)
 
 3.  Combining Model and Parameter Uncertainty in Bayesian Neural Networks.
 Hubin, Aliaksandr; Storvik, Geir Olve. 2019, CDAM 2019. Minsk, Belarus.
