@@ -43,3 +43,5 @@ Hubin, Aliaksandr; Storvik, Geir Olve. 2021, NORDSTAT 2021. Tromsø, Norway.
 
 8. Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty. 
 Hubin, Aliaksandr; Storvik, Geir Olve. 2021,World Meeting of the International Society for Bayesian Analysis. Online.
+
+## Developed by [Aliaksandr Hubin](https://scholar.google.com/citations?user=Lx-G8ckAAAAJ&hl=en/) and [Geir Storvik](https://scholar.google.no/citations?user=0xDw_sQAAAAJ&hl=en)
