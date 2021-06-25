@@ -14,6 +14,7 @@ Moreover, we suggest an adaptation of a scalable variational inference approach 
 **Additionally the research at different stages was presented via the following selected contributions:**
 
 **Preprint of an early version of the work**
+
 [Combining Model and Parameter Uncertainty in Bayesian Neural Networks.
 Hubin, Aliaksandr; Storvik, Geir Olve. 2019.](https://arxiv.org/abs/1903.07594)
 
