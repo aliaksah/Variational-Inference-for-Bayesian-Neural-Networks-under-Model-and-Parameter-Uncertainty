@@ -35,3 +35,9 @@ Hubin, Aliaksandr; Storvik, Geir Olve. 2019, CRONOSMDA 2019. Limassol, Cyprus (I
 
 6.  Combining model and parameter uncertainty in Bayesian neural networks.
 Storvik, Geir Olve; Hubin, Aliaksandr. 2019, CMStatistics 2019. London, UK (Invited).
+
+7. Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty. 
+Hubin, Aliaksandr; Storvik, Geir Olve. 2021, NORDSTAT 2021. Tromsø, Norway.
+
+8. Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty. 
+Hubin, Aliaksandr; Storvik, Geir Olve. 2021,World Meeting of the International Society for Bayesian Analysis. Online.
