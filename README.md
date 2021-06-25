@@ -29,7 +29,7 @@ Hubin, Aliaksandr; Storvik, Geir Olve. 2019, CDAM 2019. Minsk, Belarus.
 Hubin, Aliaksandr; Storvik, Geir Olve. 2019, Nordic Probabilistic AI School. Trondheim, Norway (Invited).
 
 5.  Combining Model and Parameter Uncertainty in Bayesian Neural Networks.
-Hubin, Aliaksandr; Storvik, Geir Olve. 2019, CRONOSMDA 2019. Limassol, Cyprus (Invited).
+Hubin, Aliaksandr; Storvik, Geir Olve. 2019, CRoNoS & MDA 2019. Limassol, Cyprus (Invited).
 
 6.  Combining model and parameter uncertainty in Bayesian neural networks.
 Storvik, Geir Olve; Hubin, Aliaksandr. 2019, CMStatistics 2019. London, UK (Invited).
